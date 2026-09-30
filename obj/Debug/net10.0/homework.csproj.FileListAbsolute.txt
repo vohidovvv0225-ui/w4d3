@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/C#/week4/day3/homework/bin/Debug/net10.0/homework
+/Users/macbook/Desktop/C#/week4/day3/homework/bin/Debug/net10.0/homework.deps.json
+/Users/macbook/Desktop/C#/week4/day3/homework/bin/Debug/net10.0/homework.runtimeconfig.json
+/Users/macbook/Desktop/C#/week4/day3/homework/bin/Debug/net10.0/homework.dll
+/Users/macbook/Desktop/C#/week4/day3/homework/bin/Debug/net10.0/homework.pdb
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.AssemblyInfo.cs
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.dll
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/refint/homework.dll
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.pdb
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/homework.genruntimeconfig.cache
+/Users/macbook/Desktop/C#/week4/day3/homework/obj/Debug/net10.0/ref/homework.dll
